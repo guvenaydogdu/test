@@ -1,0 +1,13 @@
+//https://javascript.plainenglish.io/how-to-implement-linkedin-sign-in-with-next-js-3f00e7dee310
+
+1-)Company Information kalan yer (done)
+2-)Modal Yap (Takip)  (done)
+4-)Statik sayfa yapısını kontrol et (done)
+5-)Carousel hatasını çöz(Done)
+9-)Statik sayfalara datayı çekme (done)
+
+3-)Dropzone for image  (done)
+6-)Search sayfası initial loading
+7-)Mesajlar
+8-)Personal ve Company information form yapısı
+9-)Authentitation
